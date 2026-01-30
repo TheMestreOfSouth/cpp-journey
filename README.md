@@ -1,6 +1,6 @@
-# C++ Journey
+# C++ 
 
-Primeiros passos em C++.
+isso aqui é apenas os first steps em C++.
 
 ## Projetos
 - **hello.cpp**: O clássico Hello World.
