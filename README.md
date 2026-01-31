@@ -7,5 +7,7 @@ isso aqui é apenas os first steps em C++
 - **calculadora.cpp**: Calculadora básica via terminal.
 
 ## Como rodar
-1. Compile: `g++ nome_do_arquivo.cpp -o executavel`
-2. Rode: `./executavel`
+. Compile: `g++ nome_do_arquivo.cpp -o executavel`
+. Rode: `./executavel`
+para o terminal em powershell, use
+.\calculadora.exe
