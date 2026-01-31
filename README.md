@@ -9,5 +9,4 @@ isso aqui é apenas os first steps em C++
 ## Como rodar
 . Compile: `g++ nome_do_arquivo.cpp -o executavel`
 . Rode: `./executavel`
-para o terminal em powershell, use
-.\calculadora.exe
+para o terminal em powershell, use: .\calculadora.exe
